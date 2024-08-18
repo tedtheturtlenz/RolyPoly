@@ -18,5 +18,11 @@ HC-05 Bluetooth Module
 MPU6050 IMU
 Logic Level Shifter
 
-make Roly Poly function successfully. 
+to make Roly Poly function successfully. 
+
+
+
+![RolyPolyRender](https://github.com/user-attachments/assets/0c787da9-4fea-429d-8fc9-beccb3688b10)
+
+![RolyPolyPhoto](https://github.com/user-attachments/assets/d7aa0d1d-ae3c-4129-a860-f13ec65b1496)
 
